@@ -1,0 +1,9 @@
+.vscode
+.env
+
+__pycache__
+venv
+files
+
+bot_run.bat
+users.db
